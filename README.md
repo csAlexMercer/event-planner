@@ -31,7 +31,7 @@ Why these technologies were chosen:
 
 
 **Demo Video**
-https://drive.google.com/file/d/1Yp92mj3NCQWDXTENX88Mr7iFhEkn1tNh/view?usp=drive_link
+https://drive.google.com/file/d/1AoYNTA1dT7wlmZ1jZRMr17doToCuYw58/view?usp=sharing
 
 **Deployment Link**
 
