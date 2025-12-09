@@ -29,3 +29,10 @@ Why these technologies were chosen:
 3. Firebase Configuration: Create project on firebase, enable authentication and firestore databse
 4. Run Application: npm start
 
+
+**Demo Video**
+https://drive.google.com/file/d/1Yp92mj3NCQWDXTENX88Mr7iFhEkn1tNh/view?usp=drive_link
+
+**Deployment Link**
+
+https://event-planner-12850.web.app/
